@@ -30,7 +30,7 @@
     <!-- lockscreen credentials (contains the form) -->
     <form class="lockscreen-credentials" id="r-login">
 		<div class="input-group">
-        <input type="text" class="form-control" name="username" placeholder="Username Id">
+        <input type="text" class="form-control" name="username" placeholder="UsernameId">
 
         <div class="input-group-append">
           <!-- <button type="submit" class="btn">
@@ -54,7 +54,7 @@
   <!-- /.lockscreen-item -->
   <div id="msg"></div>
   <div class="help-block text-center">
-      <a href="<?php echo base_url.'admin' ?>">Login As Admin</a>
+      <a href="<?php echo base_url.'admin' ?>">Login Here As Admin</a>
 
   </div>
 </div>
