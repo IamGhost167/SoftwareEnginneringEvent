@@ -23,7 +23,7 @@ if(isset($_GET['e']) && !empty($_GET['e'])){
             <div class="row">
                 <div class="col-md-6">
                     <dl>
-                        <dt>Event Title</dt>
+                        <dt>Event Title Info</dt>
                         <dd><?php echo $title ?></dd>
                     </dl>
                     <dl>
