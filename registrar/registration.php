@@ -17,7 +17,7 @@ if(isset($_GET['e']) && !empty($_GET['e'])){
 </style>
 <br>
 <div class="card card-outline card-primary">
-<div class="w-100 d-flex justify-content-center mt-3"><a class="btn btn-primary btn-rounded" id="startLive" href="./?page=attendance&e=<?php echo $_GET['e'] ?>">Scan QR</a></div>
+<div class="w-100 d-flex justify-content-center mt-3"><a class="btn btn-info btn-rounded" id="startLive" href="./?page=attendance&e=<?php echo $_GET['e'] ?>">Scan QR</a></div>
     <div class="col-md-12 p-2">
         <div class="callout">
             <div class="row">
